@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Synthh
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning C#/.NET.
+- 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on any small projects that will help me learn.
 - 📫 How to reach me:
 - Discord: Synthh#2381
